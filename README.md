@@ -1,44 +1,51 @@
-## Introduction
-안녕하세요!🙇🏻‍♀️
+<div align="center">
 
-## Skills
-<div>
-    <ul>
-        <li><i>Language</i></li>
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-    </ul>
-    <ul>
-        <li><i>Environment & Framework</i></li>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-    </ul>
-    <ul>
-        <li><i>ORM</i></li>
-        <img src="https://img.shields.io/badge/TypeORM-FCAD03?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI1NiAyMzMiPjxwYXRoIGZpbGw9IiMzMzMiIGQ9Ik0xMzkgMzJhNiA2IDAgMCAxIDUgNnY2NWE2IDYgMCAwIDEtNSA1SDg2YTYgNiAwIDAgMS02LTVWMzhhNiA2IDAgMCAxIDYtNmg1M1ptMCAzSDg2YTMgMyAwIDAgMC0zIDN2NjVhMyAzIDAgMCAwIDMgM2g1M2EzIDMgMCAwIDAgMy0zVjM4YTMgMyAwIDAgMC0zLTNaTTkzIDkzdjNoLTN2LTNoM1ptNDIgMHYzSDk1di0zaDQwWk05MyA3NnY0aC0zdi00aDNabTQyIDB2NEg5NXYtNGg0MFpNOTMgNjF2M2gtM3YtM2gzWm00MiAwdjNIOTV2LTNoNDBabTAtMTV2NEg5MHYtNGg0NVptNCA3NmE2IDYgMCAwIDEgNSA1djY1YTYgNiAwIDAgMS01IDZIODZhNiA2IDAgMCAxLTYtNnYtNjVhNiA2IDAgMCAxIDYtNWg1M1ptMCAySDg2YTMgMyAwIDAgMC0zIDN2NjVhMyAzIDAgMCAwIDMgM2g1M2EzIDMgMCAwIDAgMy0zdi02NWEzIDMgMCAwIDAtMy0zWm0tNDYgNTh2NGgtM3YtNGgzWm00MiAwdjRIOTV2LTRoNDBabS00Mi0xNnYzaC0zdi0zaDNabTQyIDB2M0g5NXYtM2g0MFptLTQyLTE2djRoLTN2LTRoM1ptNDIgMHY0SDk1di00aDQwWm0wLTE1djRIOTB2LTRoNDVabTE5LTY1djNoMTl2ODZoLTE5djNoMjJWNzBoLTN6TTE5IDE1QzIzIDkgMjkgNSAzNSAzaDJsMS0xaDNsMS0xaDZsMS0xaDd2MTVjLTEzLTEtMTkgMy0yMiA3djFhMTMgMTMgMCAwIDAtMSAydjFoLTF2NjdsLTEgMXY5aC0xdjJjLTIgNS02IDktMTYgMTEgOSAyIDE0IDYgMTYgMTF2MmwxIDF2OGwxIDJ2NjZoMXYyYzIgNSA4IDEwIDIyIDloMXYxNUg0NmwtMS0xaC0yYTU5IDU5IDAgMCAxLTEgMCA1NiA1NiAwIDAgMS0xIDBoLTF2LTFoLTJjLTgtMi0xNS02LTIwLTE0YTMxIDMxIDAgMCAxIDE0LTI0bC0xIDFjLTggNS0xMiAxMy0xMyAyM2EyNyAyNyAwIDAgMS0yLTEydi05bC0xLTZ2LTIybC0xLTEwdi0xN2MwLTgtMy0xMi03LTEzdi0xSDZhOSA5IDAgMCAwLTEgMHYtMUgxYTMzIDMzIDAgMCAwLTEgMHYtMThoNmMzLTIgOC01IDgtMTRWODBsMS0xMVY0MmwxLTZ2LThjMC01IDEtMTAgMy0xM1ptMTgxIDBWMGgxMHYxaDVsMSAxaDNjOCAzIDE1IDcgMTkgMTVhMjcgMjcgMCAwIDEgMiAxMXY5bDEgM3YyNmwxIDl2MTdjMCA4IDQgMTIgNyAxNGgydjFoNXYxOGEyNSAyNSAwIDAgMC0yIDBoLTNsLTEgMWMtNCAxLTggNS04IDEzdjEzbC0xIDExdjI3bC0xIDd2N2EyOCAyOCAwIDAgMS0xIDl2MWMtNCA5LTEzIDE0LTIyIDE2aC0xbC0xIDFoLTZ2MWgtOXYtMTVjMTQgMSAyMC0zIDIyLThoMXYtM2gxdi02N2wxLTF2LThsMS0yIDEtMmMyLTUgNy04IDE1LTEwLTExLTItMTUtNy0xNi0xM2wtMS0xdi04bC0xLTJWMzlhMjcgMjcgMCAwIDAgMTEtMTNoMWEyOCAyOCAwIDAgMS0xMiAxM1YyN2ExNSAxNSAwIDAgMCAwLTEgMTUgMTUgMCAwIDAtMSAwdi0yYy0yLTUtOC0xMC0yMi05aC0xWiIvPjwvc3ZnPg==">
-    </ul>
-    <ul>
-        <li><i>DBMS</i></li>
-        <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white">
-        <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
-    </ul>
-    <ul>
-        <li><i>Testing</i></li>
-        <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white">
-        <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=Supertest&labelColor=34eb3d">
-    </ul>
-    <ul>
-        <li><i>Etc</i></li>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-    </ul>
-    
+# Hi, I'm es 👋
+
+복잡한 구조와 데이터 흐름을 함께 이해할 수 있게 정리하고,<br>
+팀이 조금 더 편하게 개발할 수 있는 방법을 고민합니다.
+
 </div>
 
-## GitHub Stats
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=dawwson&hide_rank=true&hide=stars,contribs&hide_contibs=true&count_private=true&show_icons=true&show=reviews,prs_merged_percentage&title_color=000000&icon_color=000000&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dawwson&layout=compact&title_color=000000&text_color=000000&hide_border=true">
-</div>
- 
+<br>
+
+## Tech Stack
+
+#### Focused On
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2_·_RDS_·_SQS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+#### Also Used
+
+TypeScript · Node.js · NestJS · TypeORM · Jest · Python · FastAPI · SQLAlchemy
+
+<br>
+
+## What I Care About
+
+혼자만 이해하는 코드보다, 팀원이 함께 읽고 이어서 개발할 수 있는 코드를 만들고 싶습니다.
+
+- 바로 구현하기 전에 데이터가 어디서 와서 어디로 가는지 먼저 그려봅니다.
+- 왜 이런 방식을 선택했는지, 다른 선택지는 무엇이었는지 기록해두려고 합니다.
+- 어디까지 했고 무엇이 남았는지 알 수 있도록 작업을 작게 나눕니다.
+- 이름과 구조만 봐도 의도를 짐작할 수 있는 읽기 편한 코드를 지향합니다.
+
+<br>
+
+## Current Focus
+
+요즘은 기존 팀 프로젝트를 다시 들여다보며, 실제 운영 환경이었다면 어떤 문제가 생겼을지 생각해보고 있습니다. 기능을 더 만드는 것보다 실패 상황을 찾아보고, 지금의 구조를 어떻게 보완할 수 있을지 공부하는 데 집중하고 있습니다.
+
+- 같은 요청이 다시 들어와도 안전하게 처리하는 멱등성 설계를 공부하고 있습니다.
+- 여러 요청이 동시에 들어올 때 생기는 문제와 이를 제어하는 방법을 살펴보고 있습니다.
+- 타임아웃, 중복 처리, 부분 실패, 메시지 유실 같은 상황에서 어떻게 복구할지 고민합니다.
+- 비즈니스 로직을 외부 기술과 잘 분리하기 위해 클린 아키텍처를 공부하고 있습니다.
+- AI를 활용해 개발 과정과 고민을 기록하되, 중요한 판단은 직접 확인하고 정리합니다.
